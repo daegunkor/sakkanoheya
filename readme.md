@@ -23,7 +23,10 @@
 
 <p align="center"><img src="./readmeImg/sakkanoheyaHeader.jpg"></p>
 
-<span class='subject'>プロジェクト名｜</span>
+<span class='subject' style='
+  color:#F73A3A;
+  font-weight:bold;
+  font-size:18px;'>プロジェクト名｜</span>
 <span class='content'>作家の部屋 http://sakkanoheya.com/ </span>
 
 <span class='subject'>開発期間 / 開発人員｜</span>
