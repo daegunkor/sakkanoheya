@@ -23,10 +23,7 @@
 
 <p align="center"><img src="./readmeImg/sakkanoheyaHeader.jpg"></p>
 
-<span class='subject' style='
-  color:#F73A3A;
-  font-weight:bold;
-  font-size:18px;'>プロジェクト名｜</span>
+<span  style='color:#F73A3A; font-weight:bold; font-size:18px;'>プロジェクト名｜</span>
 <span class='content'>作家の部屋 http://sakkanoheya.com/ </span>
 
 <span class='subject'>開発期間 / 開発人員｜</span>
@@ -44,16 +41,16 @@
 
 <span class='subject'>担当</span><br>
 <span class='sub-subject'>1. 背景設定部分の人物相関図（ D3.js )</span><br>
-<a src='https://github.com/daegunkor/sakkanoheya/blob/master/app/Http/Controllers/RelationController.php'>CONTROLLER : app/Http/Controllers/RelationController.php</a><br>
-<a src='https://github.com/daegunkor/sakkanoheya/tree/master/resources/views/background/relationship'>VIEW : resources/views/background/relationship</a>
+<a href='https://github.com/daegunkor/sakkanoheya/blob/master/app/Http/Controllers/RelationController.php'>CONTROLLER : app/Http/Controllers/RelationController.php</a><br>
+<a href='https://github.com/daegunkor/sakkanoheya/tree/master/resources/views/background/relationship'>VIEW : resources/views/background/relationship</a>
 
 <span class='sub-subject'>2. 地図作成ツール（ D3.js )</span><br>
-<a src='https://github.com/daegunkor/sakkanoheya/blob/master/app/Http/Controllers/MapController.php'>CONTROLLER : app/Http/Controllers/MapController.php</a><br>
-<a src='https://github.com/daegunkor/sakkanoheya/tree/master/resources/views/background/map'>VIEW : resources/views/background/map</a>
+<a href='https://github.com/daegunkor/sakkanoheya/blob/master/app/Http/Controllers/MapController.php'>CONTROLLER : app/Http/Controllers/MapController.php</a><br>
+<a href='https://github.com/daegunkor/sakkanoheya/tree/master/resources/views/background/map'>VIEW : resources/views/background/map</a>
 
 <span class='sub-subject'>3. 執筆部分のエディター  ( jQuery )</span><br>
-<a src='https://github.com/daegunkor/sakkanoheya/blob/master/app/Http/Controllers/writeNovelController.php'>CONTROLLER : app/Http/Controllers/writeNovelController.php</a><br>
-<a src='https://github.com/daegunkor/sakkanoheya/tree/master/resources/views/write_novel'>VIEW : resources/views/write_novel</a>
+<a href='https://github.com/daegunkor/sakkanoheya/blob/master/app/Http/Controllers/writeNovelController.php'>CONTROLLER : app/Http/Controllers/writeNovelController.php</a><br>
+<a href='https://github.com/daegunkor/sakkanoheya/tree/master/resources/views/write_novel'>VIEW : resources/views/write_novel</a>
 
 
 <span class='subject'>サービスの流れ</span>
