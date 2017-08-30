@@ -1,25 +1,4 @@
 
-<style>
-.subject {
-  color:#F73A3A;
-  font-weight:bold;
-  font-size:18px;
-}
-
-.sub-subject{
-  font-weight:bold;
-  font-size:18px;
-}
-
-.content {
-  font-size:18px;
-}
-
-.highlite {
-  color:#DBA901;
-}
-</style>
-
 
 <p align="center"><img src="./readmeImg/sakkanoheyaHeader.jpg"></p>
 
