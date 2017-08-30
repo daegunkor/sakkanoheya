@@ -1,4 +1,4 @@
-<p align="center"><img src="./sakkanoheyaHeader.jpg"></p>
+<p align="center"><img src="./readmeImg/sakkanoheyaHeader.jpg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/homestead"><img src="https://travis-ci.org/laravel/homestead.svg" alt="Build Status"></a>
